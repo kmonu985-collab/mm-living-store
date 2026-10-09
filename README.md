@@ -1,1 +1,1 @@
-# mm-living-store
+# MM-Living-Store
